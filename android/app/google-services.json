@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "461402305934",
+    "project_id": "leoonnotification",
+    "storage_bucket": "leoonnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461402305934:android:22d88e3f2751a0864f60df",
+        "android_client_info": {
+          "package_name": "com.example.agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCycc-Go-MRQmN84N_A26JJfsyJszbkN1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461402305934:android:69ebedd1916b002c4f60df",
+        "android_client_info": {
+          "package_name": "com.example.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCycc-Go-MRQmN84N_A26JJfsyJszbkN1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461402305934:android:8fcea5e6fc3bd8214f60df",
+        "android_client_info": {
+          "package_name": "com.example.pushNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCycc-Go-MRQmN84N_A26JJfsyJszbkN1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461402305934:android:02c9ea2be8050e174f60df",
+        "android_client_info": {
+          "package_name": "com.souvikbiswas.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCycc-Go-MRQmN84N_A26JJfsyJszbkN1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461402305934-8gmbfmoqabp6fgc17lreu82oji9a1rs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
